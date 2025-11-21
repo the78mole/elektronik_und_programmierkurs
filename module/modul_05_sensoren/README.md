@@ -296,7 +296,7 @@ void loop() {
 ### Differenzierung
 - **Schnelle Kinder:** Mehrere Sensoren kombinieren, Durchschnittswerte
 - **Jüngere Kinder:** Einfache Schwellwert-Prüfung, viel Serial-Output
-- **Ältere Kinder:** Kalibrierung, Mittelwerte, Hystere
+- **Ältere Kinder:** Kalibrierung, Mittelwerte, Hysterese
 
 ## 🎓 Wichtige Konzepte
 
