@@ -257,5 +257,5 @@ Befehle mehrmals ausführen ohne sie neu zu schreiben.
 
 ---
 
-**Vorheriges Modul:** [Modul 2: Bunte Lichter und Summer](../modul_02_lichter_summer/)  
-**Nächstes Modul:** [Modul 4: Einführung in Mikrocontroller](../modul_04_mikrocontroller/)
+**Vorheriges Modul:** [Modul 5: Bunte Lichter und Summer](../modul_05_lichter_summer/)  
+**Nächstes Modul:** [Modul 7: Einführung in Mikrocontroller](../modul_07_mikrocontroller/)

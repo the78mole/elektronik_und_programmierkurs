@@ -435,5 +435,5 @@ void loop() {
 
 ---
 
-**Vorheriges Modul:** [Modul 5: Sensoren erkunden](../modul_05_sensoren/)  
-**Nächstes Modul:** [Modul 7: Eigene Projekte entwickeln](../modul_07_projekte/)
+**Vorheriges Modul:** [Modul 8: Sensoren erkunden](../modul_08_sensoren/)  
+**Nächstes Modul:** [Modul 10: Eigene Projekte entwickeln](../modul_10_projekte/)

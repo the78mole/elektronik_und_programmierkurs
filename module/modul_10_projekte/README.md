@@ -377,7 +377,8 @@ Nach dem Kurs:
 
 ---
 
-**Vorheriges Modul:** [Modul 6: Motoren und Bewegung](../modul_06_motoren/)
+**Vorheriges Modul:** [Modul 9: Motoren und Bewegung](../modul_09_motoren/)  
+**Nächstes Modul:** [Modul 11: KI als Lernassistent](../modul_11_ki_assistent/)
 
 ---
 

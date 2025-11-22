@@ -25,23 +25,43 @@ Dieser Kurs vermittelt grundlegende Kenntnisse in Elektronik und Programmierung 
 
 ## 📚 Kursstruktur
 
-Der Kurs ist modular aufgebaut und kann flexibel an das Alter und die Vorkenntnisse der Teilnehmer angepasst werden:
+Der Kurs ist modular aufgebaut und kann flexibel an das Alter und die Vorkenntnisse der Teilnehmer angepasst werden. **Insgesamt 11 Module** führen von einfachen Basteleien bis zu eigenständigen Projekten mit KI-Unterstützung:
 
-### Grundmodule (ab 2. Klasse)
+### Einstiegsmodule (ab 2. Klasse)
 
-1. **Modul 1: Erste Schritte mit Strom** (1,5h)
+1. **Modul 1: Einfache Elektronik-Basteleien** (1,5h)
+   - Erste Berührung mit Elektronik
+   - LED-Klammern, leuchtende Karten
+   - Basteln ohne Breadboard
+   - *Material:* Knopfzellen, LEDs, Bastelmaterial
+
+2. **Modul 2: Geklebte Elektronik** (1,5h)
+   - Schaltungen mit Kupferklebeband
+   - Papier-Schaltungen (Paper Circuits)
+   - Inspiriert von ZAM Erlangen
+   - *Material:* Kupferklebeband, LEDs, Pappe
+
+3. **Modul 3: Erste Schritte mit Strom** (1,5h)
    - Stromkreise verstehen
-   - LED zum Leuchten bringen
+   - LED zum Leuchten bringen mit Krokodilklemmen
    - Taster und Schalter einbauen
    - *Material:* Batterien, LEDs, Taster, Krokodilklemmen
 
-2. **Modul 2: Bunte Lichter und Summer** (1,5h)
-   - Mehrere LEDs steuern
+4. **Modul 4: Einführung ins Breadboard** (1,5h)
+   - Breadboard-Funktion verstehen
+   - Leitende Verbindungen erklärt
+   - Erste Schaltungen auf Breadboard
+   - *Material:* Breadboard, Erklärungsfolie, Jumper-Kabel
+
+### Grundmodule (ab 2. Klasse)
+
+5. **Modul 5: Bunte Lichter und Summer** (1,5h)
+   - Mehrere LEDs mit Breadboard steuern
    - Summer/Buzzer einsetzen
    - Einfache Ampelschaltung
    - *Material:* LEDs verschiedene Farben, Summer, Widerstände
 
-3. **Modul 3: Programmieren mit Scratch** (1,5h)
+6. **Modul 6: Programmieren mit Scratch** (1,5h)
    - Erste Schritte mit Scratch
    - Figuren bewegen und animieren
    - Einfache Spiele erstellen
@@ -49,19 +69,19 @@ Der Kurs ist modular aufgebaut und kann flexibel an das Alter und die Vorkenntni
 
 ### Aufbaumodule (ab 4. Klasse)
 
-4. **Modul 4: Einführung in Mikrocontroller** (1,5h)
+7. **Modul 7: Einführung in Mikrocontroller** (1,5h)
    - Was ist ein Mikrocontroller?
    - LED mit Arduino/Calliope blinken lassen
    - Erste Programmierung
    - *Material:* Arduino/Calliope, USB-Kabel, Computer
 
-5. **Modul 5: Sensoren erkunden** (1,5h)
+8. **Modul 8: Sensoren erkunden** (1,5h)
    - Lichtsensor, Temperatursensor
    - Werte auslesen und anzeigen
    - Reaktion auf Umgebung programmieren
    - *Material:* Sensoren, Mikrocontroller
 
-6. **Modul 6: Motoren und Bewegung** (1,5h)
+9. **Modul 9: Motoren und Bewegung** (1,5h)
    - Servo-Motor steuern
    - DC-Motor mit Transistor
    - Einfacher Roboter
@@ -69,11 +89,18 @@ Der Kurs ist modular aufgebaut und kann flexibel an das Alter und die Vorkenntni
 
 ### Projektmodule (ab 6. Klasse)
 
-7. **Modul 7: Eigene Projekte entwickeln** (1,5h)
-   - Projektideen sammeln
-   - Planung und Umsetzung
-   - Präsentation der Ergebnisse
-   - *Material:* Je nach Projekt
+10. **Modul 10: Eigene Projekte entwickeln** (1,5h)
+    - Projektideen sammeln
+    - Planung und Umsetzung
+    - Präsentation der Ergebnisse
+    - *Material:* Je nach Projekt
+
+11. **Modul 11: KI als Lernassistent** (1,5h)
+    - KI-Tools kennenlernen (ChatGPT, Copilot)
+    - KI für Elektronik-Fragen nutzen
+    - KI für Programmierung einsetzen
+    - Eigenständig mit KI weitermachen
+    - *Material:* Computer mit Internet
 
 ## 🧰 Benötigte Materialien und Werkzeuge
 
@@ -186,24 +213,28 @@ Der Kurs ist modular aufgebaut und kann flexibel an das Alter und die Vorkenntni
 
 ```
 elektronik_und_programmierkurs/
-├── README.md                    # Diese Datei
-├── LICENSE                      # Lizenz
-├── module/                      # Kursmodule
-│   ├── modul_01_stromkreise/   # Modul 1
-│   ├── modul_02_lichter_summer/# Modul 2
-│   ├── modul_03_scratch/        # Modul 3
-│   ├── modul_04_mikrocontroller/# Modul 4
-│   ├── modul_05_sensoren/       # Modul 5
-│   ├── modul_06_motoren/        # Modul 6
-│   └── modul_07_projekte/       # Modul 7
-├── materialien/                 # Materiallisten
-│   ├── einkaufsliste.md        # Detaillierte Einkaufsliste
-│   └── bezugsquellen.md        # Empfohlene Shops
-├── vorlagen/                    # Vorlagen und Arbeitsblätter
-│   ├── teilnehmerliste.md      # Anwesenheitsliste
-│   └── projektkarten.md        # Karten für Projektideen
-└── bilder/                      # Fotos und Illustrationen
-    └── beispiele/               # Beispielprojekte
+├── README.md                         # Diese Datei
+├── LICENSE                           # Lizenz
+├── module/                           # Kursmodule
+│   ├── modul_01_einfache_elektronik/ # Modul 1: Basteleien
+│   ├── modul_02_geklebte_elektronik/ # Modul 2: Kupferklebeband
+│   ├── modul_03_stromkreise/         # Modul 3: Stromkreise
+│   ├── modul_04_breadboard/          # Modul 4: Breadboard-Einführung
+│   ├── modul_05_lichter_summer/      # Modul 5: LEDs & Summer
+│   ├── modul_06_scratch/             # Modul 6: Scratch
+│   ├── modul_07_mikrocontroller/     # Modul 7: Arduino/Calliope
+│   ├── modul_08_sensoren/            # Modul 8: Sensoren
+│   ├── modul_09_motoren/             # Modul 9: Motoren
+│   ├── modul_10_projekte/            # Modul 10: Eigene Projekte
+│   └── modul_11_ki_assistent/        # Modul 11: KI-Tools
+├── materialien/                      # Materiallisten
+│   ├── einkaufsliste.md             # Detaillierte Einkaufsliste
+│   └── bezugsquellen.md             # Empfohlene Shops
+├── vorlagen/                         # Vorlagen und Arbeitsblätter
+│   ├── teilnehmerliste.md           # Anwesenheitsliste
+│   └── projektkarten.md             # Karten für Projektideen
+└── bilder/                           # Fotos und Illustrationen
+    └── beispiele/                    # Beispielprojekte
 ```
 
 ## 🚀 Erste Schritte

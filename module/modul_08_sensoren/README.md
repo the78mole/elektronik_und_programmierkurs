@@ -373,5 +373,5 @@ void loop() {
 
 ---
 
-**Vorheriges Modul:** [Modul 4: Einführung in Mikrocontroller](../modul_04_mikrocontroller/)  
-**Nächstes Modul:** [Modul 6: Motoren und Bewegung](../modul_06_motoren/)
+**Vorheriges Modul:** [Modul 7: Einführung in Mikrocontroller](../modul_07_mikrocontroller/)  
+**Nächstes Modul:** [Modul 9: Motoren und Bewegung](../modul_09_motoren/)

@@ -317,5 +317,5 @@ void loop() {
 
 ---
 
-**Vorheriges Modul:** [Modul 3: Programmieren mit Scratch](../modul_03_scratch/)  
-**Nächstes Modul:** [Modul 5: Sensoren erkunden](../modul_05_sensoren/)
+**Vorheriges Modul:** [Modul 6: Programmieren mit Scratch](../modul_06_scratch/)  
+**Nächstes Modul:** [Modul 8: Sensoren erkunden](../modul_08_sensoren/)

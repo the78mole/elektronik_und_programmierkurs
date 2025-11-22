@@ -151,4 +151,4 @@ Suche zu Hause nach Dingen, die mit Batterien funktionieren. Was leuchtet? Was b
 
 ---
 
-**Nächstes Modul:** [Modul 2: Bunte Lichter und Summer](../modul_02_lichter_summer/)
+**Nächstes Modul:** [Modul 4: Einführung ins Breadboard](../modul_04_breadboard/)

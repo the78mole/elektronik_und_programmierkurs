@@ -191,5 +191,5 @@ Fotografiere:
 
 ---
 
-**Vorheriges Modul:** [Modul 1: Erste Schritte mit Strom](../modul_01_stromkreise/)  
-**Nächstes Modul:** [Modul 3: Programmieren mit Scratch](../modul_03_scratch/)
+**Vorheriges Modul:** [Modul 4: Einführung ins Breadboard](../modul_04_breadboard/)  
+**Nächstes Modul:** [Modul 6: Programmieren mit Scratch](../modul_06_scratch/)
