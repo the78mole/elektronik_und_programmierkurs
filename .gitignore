@@ -1,0 +1,31 @@
+# Temporary files
+*.tmp
+*.temp
+*~
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build artifacts (if any)
+*.o
+*.out
+*.exe
+
+# Personal notes (optional)
+notes/
+private/
+
+# Compiled Arduino files
+*.hex
+*.elf
+*.bin
+
+# Python cache (if any Python tools are used)
+__pycache__/
+*.pyc
+*.pyo
